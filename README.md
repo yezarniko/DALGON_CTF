@@ -2,4 +2,4 @@
 
 This is fun repo created for solving ctf challenges.
 
-![dalgon](jisoo_dalgon.jpg)
+<img src="jisoo_dalgon.jpg" alt="Alt Text" width="238" height="329">
